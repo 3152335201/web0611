@@ -21,4 +21,8 @@ public class Servlet {
     public static void main(String[] args) {
         System.out.println("喻赛学习小组");
     }
+
+    public  void  cxy(){
+        System.out.println("i need help！");
+    }
 }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/s82webs/untitled/web0611/web0611.iml" filepath="$PROJECT_DIR$/s82webs/untitled/web0611/web0611.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/s82web.iml" filepath="$PROJECT_DIR$/.idea/s82web.iml" />
     </modules>
   </component>
 </project>
