@@ -24,5 +24,6 @@ public class Servlet {
 
     public  void  cxy(){
         System.out.println("i need help！");
+        System.out.println("i need help！");
     }
 }
