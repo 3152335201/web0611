@@ -22,9 +22,10 @@ public class Servlet {
         System.out.println("喻赛学习小组");
     }
 
-    public  void  cxy(){
-        System.out.println("i need help！");
-        System.out.println("i need help！");
+    public  void  cxyh(){
+        System.out.println("i need help666！");
+        System.out.println("i need help666！");
+        System.out.println("张诚辉学习小组 ！");
 
     }
 }
